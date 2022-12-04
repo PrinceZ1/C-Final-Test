@@ -17,7 +17,11 @@ Phụ cấp theo chức vụ
 
 Thưởng
 
-Hãy tính thu nhập của mỗi nhân viên và in ra theo thứ tự giảm dần về thu nhập, biết rằng thu nhập được tính bằng = Lương cứng + Phụ cấp + Thưởng. Lương cứng được tính bằng số ngày công nhân với lương cơ bản. Phụ cấp sẽ được tính theo chức vụ : Giám đốc : 2000000, Phó giám đốc : 1000000, Trưởng phòng : 500000, Nhân viên : 200000. Thưởng được tính như sau :
+Hãy tính thu nhập của mỗi nhân viên và in ra theo thứ tự giảm dần về thu nhập,
+biết rằng thu nhập được tính bằng = Lương cứng + Phụ cấp + Thưởng. 
+Lương cứng được tính bằng số ngày công nhân với lương cơ bản. 
+Phụ cấp sẽ được tính theo chức vụ : Giám đốc : 2000000, Phó giám đốc : 1000000, Trưởng phòng : 500000, Nhân viên : 200000. 
+Thưởng được tính như sau :
 
 Số ngày công >= 27 : 20% lương cứng
 
