@@ -1,4 +1,6 @@
-/*Một số nguyên N được coi là đẹp nếu tồn tại ít nhất một số nguyên tố X sao cho N chia hết cho X và N chia hết cho cả X^3. Ví dụ N = 48 là một số đẹp vì tồn tại ước nguyên tố X = 2 mà 48 chia hết cho cả 2 và chia hết cho cả 8(2^3). Cho số nguyên N, bạn hãy kiểm tra xem N có phải là số đẹp hay không?
+/*Một số nguyên N được coi là đẹp nếu tồn tại ít nhất một số nguyên tố X sao cho N chia hết cho X và N chia hết cho cả X^3.
+Ví dụ N = 48 là một số đẹp vì tồn tại ước nguyên tố X = 2 mà 48 chia hết cho cả 2 và chia hết cho cả 8(2^3). 
+Cho số nguyên N, bạn hãy kiểm tra xem N có phải là số đẹp hay không?
 
 Input Format
 
