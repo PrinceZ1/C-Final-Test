@@ -1,4 +1,6 @@
-/*Cho mảng A[] gồm N phần tử, nhiệm vụ của bạn là với mỗi phần tử A[i] trong mảng A hãy tìm ra phần tử lớn nhất cũng thuộc mảng A[] mà nhỏ hơn A[i], nếu có phần tử không tồn tại phần tử nhỏ hơn nó thì in ra dấu #.
+/*Cho mảng A[] gồm N phần tử, nhiệm vụ của bạn là với mỗi phần tử A[i] trong mảng A 
+hãy tìm ra phần tử lớn nhất cũng thuộc mảng A[] mà nhỏ hơn A[i], 
+nếu có phần tử không tồn tại phần tử nhỏ hơn nó thì in ra dấu #.
 
 Input Format
 
