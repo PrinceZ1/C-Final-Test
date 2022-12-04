@@ -1,4 +1,8 @@
-/*Cho kết quả thi đấu của một giải đấu bóng đá cấp đội tuyển, bạn hãy tìm ra bảng xếp hạng của giải đấu dựa vào kết quả trên, bảng xếp hạng được sắp xếp theo điểm giảm dần, nếu 2 đội có cùng điểm sẽ xếp theo hiệu số bàn thắng giảm dần, nếu 2 đội cùng điểm và cùng hiệu số bàn thằng sẽ sắp xếp theo tên đội bóng tăng dần về thứ tự từ điển. Biết rằng trong một trận đấu, đội thắng sẽ được 3 điểm, hòa được 1 điểm và thua được 0 điểm và mỗi đội tham gia ít nhất một trận đấu.
+/*Cho kết quả thi đấu của một giải đấu bóng đá cấp đội tuyển, bạn hãy tìm ra bảng xếp hạng của giải đấu dựa vào kết quả trên, 
+bảng xếp hạng được sắp xếp theo điểm giảm dần, 
+nếu 2 đội có cùng điểm sẽ xếp theo hiệu số bàn thắng giảm dần, 
+nếu 2 đội cùng điểm và cùng hiệu số bàn thằng sẽ sắp xếp theo tên đội bóng tăng dần về thứ tự từ điển. 
+Biết rằng trong một trận đấu, đội thắng sẽ được 3 điểm, hòa được 1 điểm và thua được 0 điểm và mỗi đội tham gia ít nhất một trận đấu.
 
 Input Format
 
