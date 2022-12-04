@@ -1,6 +1,7 @@
 /*Cho danh sách thành viên của công ty của công ty X, mỗi thành viên gồm những thông tin sau :
 
-Mã nhân viên gồm viết tắt của chức vụ (GD : Giám đốc, PGD : Phó giám đốc, TP : Trưởng phòng, NV : Nhân viên) kèm theo số thứ tự được phân cách nhau bởi dấu gạch giữa.
+Mã nhân viên gồm viết tắt của chức vụ (GD : Giám đốc, PGD : Phó giám đốc, TP : Trưởng phòng, NV : Nhân viên) 
+kèm theo số thứ tự được phân cách nhau bởi dấu gạch giữa.
 
 Chức vụ : Được suy ra từ mã nhân viên
 
@@ -28,7 +29,8 @@ Input Format
 
 Dòng 1 là N : số lượng nhân viên
 
-5N dòng tiếp theo mô tả thông tin nhân viên, mỗi thông tin gồm 5 dòng. Dòng 1 là mã nhân viên, dòng 2 là tên nhân viên, dòng 3 là ngày sinh, dòng 4 là số ngày công, dòng 5 là lương cơ bản
+5N dòng tiếp theo mô tả thông tin nhân viên, mỗi thông tin gồm 5 dòng. 
+Dòng 1 là mã nhân viên, dòng 2 là tên nhân viên, dòng 3 là ngày sinh, dòng 4 là số ngày công, dòng 5 là lương cơ bản
 
 Constraints
 
@@ -36,7 +38,8 @@ Constraints
 
 Output Format
 
-In ra danh sách thành viên của công ty theo lương giảm dần, nếu có 2 người cùng lương thì in theo thứ tự mã nhân viên tăng dần về từ điển. Mỗi thành viên in mã, tên, chức vụ, ngày sinh, số ngày công, lương cơ bản, thu nhập.
+In ra danh sách thành viên của công ty theo lương giảm dần, nếu có 2 người cùng lương thì in theo thứ tự mã nhân viên tăng dần về từ điển. 
+Mỗi thành viên in mã, tên, chức vụ, ngày sinh, số ngày công, lương cơ bản, thu nhập.
 
 Sample Input 0
 
