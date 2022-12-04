@@ -1,4 +1,5 @@
-/*Một số được coi là số đẹp nếu các chữ số ở vị trí chẵn của nó là số chẵn và các chữ số ở vị trí lẻ của nó là số lẻ. Ví dụ N = 1658347 là một số đẹp. Nhiệm vụ của bạn là kiểm tra xem các số đã cho có phải là số đẹp hay không?
+/*Một số được coi là số đẹp nếu các chữ số ở vị trí chẵn của nó là số chẵn và các chữ số ở vị trí lẻ của nó là số lẻ. 
+Ví dụ N = 1658347 là một số đẹp. Nhiệm vụ của bạn là kiểm tra xem các số đã cho có phải là số đẹp hay không?
 
 Gợi ý : Chú ý trường hợp N âm
 
